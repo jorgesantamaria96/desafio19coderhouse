@@ -1,7 +1,7 @@
 {
   "name": "desafio19coderhouse",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mejorar la arquitectura de nuestra API.",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
